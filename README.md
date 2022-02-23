@@ -34,10 +34,22 @@ M.O.T.H.S. is a mod for Kerbal Space Program that uses ModuleManager to replicat
 
 -Latest Version of Stock Waterfall Effects.
 
-## To-do List:
+## Roadmap:
 
--Add Support for Nertea's Heat Contol Mod.
+-Add Waterfall Support
 
--Add Support for Restock.
+-Make Preliminary Parts and Tweak Performance to stay within a stock but interstellar scale.
 
--Feel free to suggest something!
+-Add Laser Thermal Parts.
+
+-Make Double Scale Parts for much larger exploration.
+
+-Add RealFuels Support.
+
+-Add Support for Nertea's WasteHeat System.
+
+-Add Alternative Skins for all Parts.
+
+-Add Support for RSS/RO Scale.
+
+-Add Triple Scale Parts.
