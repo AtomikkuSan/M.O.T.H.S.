@@ -1,0 +1,27 @@
+{
+  "NAME": "MOTHS",
+  "URL": "https://github.com/M.O.T.H.S./raw/main/AtomicTech/ThermalPond.version",
+  "DOWNLOAD": "https://github.com/JamesErvin-5/M.O.T.H.S./releases",
+  "GITHUB": {
+    "USERNAME": "JamesErvin-5",
+    "REPOSITORY": "M.O.T.H.S."
+  },
+  "VERSION": {
+    "MAJOR": 0,
+    "MINOR": 1,
+    "PATCH": 0,
+    "BUILD": 0
+  },
+  "KSP_VERSION": {
+    "MAJOR": 1,
+    "MINOR": 12,
+    "PATCH": 3,
+    "BUILD": 0
+  },
+  "KSP_VERSION_MIN": {
+    "MAJOR": 1,
+    "MINOR": 12,
+    "PATCH": 0,
+    "BUILD": 0
+  }
+}
