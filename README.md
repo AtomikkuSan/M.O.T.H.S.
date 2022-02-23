@@ -16,6 +16,12 @@ with
    
 M.O.T.H.S. is a mod for Kerbal Space Program that uses ModuleManager to replicate a Solar Thermal Rocket Engine System similar to the Solar Moth concept.
 
+## Authors:
+
+-AtomicTech (Atomikku)
+
+-Randazzo
+
 ## Requirements:
 
 -Latest Version of Module Manager.
