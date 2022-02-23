@@ -18,7 +18,7 @@ M.O.T.H.S. is a mod for Kerbal Space Program that uses ModuleManager to replicat
 
 ## Authors:
 
--AtomicTech (Atomikku)
+-AtomicTech (Atomikku/AtomikkuSan)
 
 -Randazzo
 
