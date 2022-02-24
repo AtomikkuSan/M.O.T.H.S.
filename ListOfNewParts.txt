@@ -14,3 +14,5 @@ Mostly a Planning Document.
 -New ATV-EPL "Vanguard" Advanced Radioisotope Thermoelectric Generator!
 
 -New selection of structural components for meshing all the parts together!
+
+-New Liquid Fuel Tanks!
