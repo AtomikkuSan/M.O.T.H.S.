@@ -1,0 +1,16 @@
+Mostly a Planning Document.
+\/\/\/\/\/\/\/\/\/\/\/\/\/
+
+-ATV-SL100 "Flare" Solar Thermal Propulsion Engine Revamp
+
+-ATV-SL100E "Static" Solar Electric Propulsion Engine Revamp
+
+-ATV-CSL "Concentrator" Solar Thermal Propellant Heater Revamp
+
+-ATV-CSL "Zap!" Solar Electric Propellant Heater Revamp
+
+-New ATJ-SPC Schmokin'!" Thermal Energy Collector!
+
+-New ATV-EPL "Vanguard" Advanced Radioisotope Thermoelectric Generator!
+
+-New selection of structural components for meshing all the parts together!
