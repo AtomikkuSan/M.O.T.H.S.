@@ -9,9 +9,15 @@ Mostly a Planning Document.
 
 -ATV-CSL "Zap!" Solar Electric Propellant Heater Revamp
 
--New ATJ-SPC Schmokin'!" Thermal Energy Collector!
+-New ATJ-SPC "Schmokin'!" Thermal Energy Collector!
 
--New ATV-EPL "Vanguard" Advanced Radioisotope Thermoelectric Generator!
+-New ATV-EPL "Vanguard" Advanced Radioisotope Thermoelectric Generator! (Later Release)
+
+-New ATV-LHC100 "Cold Jay" Laser Thermal Propulsion Engine! (Later Release)
+
+-New ATJ-SPC "Ben Gees" Laser Thermal Propellant Heater! (Later Release)
+
+-New ATV-LHC "Zed" Laser Generator! (Later Release)
 
 -New selection of structural components for meshing all the parts together!
 
