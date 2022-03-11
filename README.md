@@ -22,11 +22,9 @@ M.O.T.H.S. is a mod for Kerbal Space Program that uses ModuleManager to replicat
 
 -Randazzo (Modeler)
 
--ColdJ (Modeler)
+-Benjee10 (Design Consultant)
 
--Benjee10 (Modeling Assistance and Design Consultant)
-
--Zed'K (Unknown at this time)
+-Zed'K (Swiss Army Knife)
 
 ## Requirements:
 
